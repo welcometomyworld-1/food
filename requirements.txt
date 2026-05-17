@@ -1,0 +1,4 @@
+flask
+pillow
+numpy
+# tensorflow  # Note: TensorFlow might not be available for Python 3.14 yet.
