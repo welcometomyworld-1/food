@@ -1,4 +1,5 @@
 flask
 pillow
 numpy
+gunicorn
 # tensorflow  # Note: TensorFlow might not be available for Python 3.14 yet.
